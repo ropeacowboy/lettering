@@ -1,3 +1,15 @@
-body {
-    background: pink;
+h1{
+  color:green; 
+  text-transform:uppercase;
+  font-family:sans-serif; 
+  letter-spacing: 4px;
+  
+}
+
+h1 span:nth-child(){
+  color:red;
+  
+}
+span.word7{
+  color:blue;
 }
